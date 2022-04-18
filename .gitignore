@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# build
+_output
+
+# production
+/build
+
+# vscode
+.vscode
+
+# storybook
+.storybook
+stories
+
+# env files
+.env
+
+# build files
+dist
+docs
+yarn-error.log
+.DS_Store
+.history
